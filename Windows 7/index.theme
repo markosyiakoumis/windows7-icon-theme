@@ -1,0 +1,4 @@
+[Icon Theme]
+Name = Windows 7
+Example = default
+Inherits = the_old_cursor_theme
